@@ -1,6 +1,4 @@
-# Upgrade Drupal 8 > 9 in 20 Minutes
-
-<a href="https://www.youtube.com/embed/kwUjDwUmXSk" rel="nofollow">Upgrade Drupal 8 > 9 in 20 Minutes</a>
+# <a href="https://www.youtube.com/embed/kwUjDwUmXSk" target="_blank" rel="nofollow">Upgrade Drupal 8 > 9 in 20 Minutes</a>
 
 https://www.youtube.com/embed/kwUjDwUmXSk
 
